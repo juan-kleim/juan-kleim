@@ -39,15 +39,6 @@
 
 ---
 
-## 📬 Vamos Colaborar
-
-Estou sempre aberto a:
-- 💼 Oportunidades de projetos interessantes
-- 🤝 Colaborações técnicas
-- 📚 Compartilhamento de conhecimento
-
----
-
 <div align="center">
   <p>⭐ Sinta-se à vontade para explorar meus repositórios e marcar projetos interessantes!</p>
 </div>
