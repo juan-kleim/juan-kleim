@@ -17,26 +17,17 @@
     </a>
   </div>
 </div>
-
 ---
-
 ## 👨‍💻 Perfil Profissional
 
-Sou estudante de Ciência da Computação, atualmente focando no Desenvolvimento Android. Gosto da da programação por me permitir criar soluções para problemas e facilitar a vida.
-
-**Principais Competências:**
-- 🎪 Java e Kotlin
-- 🔧 Python
-- 🚀 HTML, CSS e JavaScript
+Estudante de Ciência da Computação, atualmente focando no Desenvolvimento Android. Gosto da da programação por me permitir criar soluções para problemas e facilitar a vida.
 
 ## 🛠️ Habilidades Técnicas
 
 <div align="center">
 
 ### **Desenvolvimento Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ### **Desenvolvimento Backend**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -47,7 +38,6 @@ Sou estudante de Ciência da Computação, atualmente focando no Desenvolvimento
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
 ---
 
 ## 📈 Estatísticas do GitHub
@@ -56,16 +46,7 @@ Sou estudante de Ciência da Computação, atualmente focando no Desenvolvimento
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-kleim&show_icons=true&theme=radical" alt="Estatísticas GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-kleim&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas"/>
 </div>
-
 ---
-
----
-
-## 🌱 Atualmente Aprendendo (Março 2025)
-- [ ] Desenvolvimento Mobile com Java e Kotlin no Android Studio
-- [ ] Integração de Java com Banco de Dados
----
-
 ## 📬 Vamos Colaborar
 
 Estou sempre aberto a:
