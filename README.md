@@ -6,8 +6,6 @@
 
 ---
 
-## 🛠️ Habilidades Técnicas
-
 <div align="center">
 
 ### **Desenvolvimento Frontend**
