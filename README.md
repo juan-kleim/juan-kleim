@@ -3,14 +3,6 @@
   <h1>Juan Pacheco Kleim</h1>
   
   <h3>Desenvolvedor Android (tentando) | Entusiasta Web3 </h3>
-  
-  <div>
-    <a href="https://www.linkedin.com/in/juan-pacheco-kleim/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    <a href="https://discord.com/users/p.zn">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-  </div>
 
 ---
 
