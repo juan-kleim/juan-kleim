@@ -53,9 +53,9 @@ Sou estudante de Ciência da Computação, atualmente focando no Desenvolvimento
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaiVandeberg&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiVandeberg&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaiVandeberg&theme=radical&hide_border=true" alt="Sequência GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-kleim&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-kleim&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juan-kleim&theme=radical&hide_border=true" alt="Sequência GitHub"/>
 </div>
 
 ---
