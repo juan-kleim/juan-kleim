@@ -26,5 +26,5 @@
 ---
 
 <div align="center">
-  <p>⭐ Sinta-se à vontade para explorar meus repositórios e marcar projetos interessantes!</p>
+  <p> Sinta-se à vontade para explorar meus repositórios e marcar projetos interessantes!</p>
 </div>
