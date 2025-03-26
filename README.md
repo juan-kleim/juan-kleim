@@ -14,10 +14,6 @@
 
 ---
 
-## 👨‍💻 Perfil Profissional
-
-Estudante de Ciência da Computação, atualmente focando no Desenvolvimento Android. Gosto da da programação por me permitir criar soluções para problemas e facilitar a vida.
-
 ## 🛠️ Habilidades Técnicas
 
 <div align="center">
@@ -31,6 +27,7 @@ Estudante de Ciência da Computação, atualmente focando no Desenvolvimento And
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+
 ---
 
 ## 📈 Estatísticas do GitHub
