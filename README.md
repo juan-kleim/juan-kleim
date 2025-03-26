@@ -36,7 +36,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-kleim&show_icons=true&theme=radical" alt="Estatísticas GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-kleim&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas"/>
 </div>
+
 ---
+
 ## 📬 Vamos Colaborar
 
 Estou sempre aberto a:
