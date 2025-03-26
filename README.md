@@ -8,7 +8,6 @@
   <div>
     <a href="https://www.linkedin.com/in/juan-pacheco-kleim/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      **Conecte-se comigo:**
     </a>
   </div>
 </div>
