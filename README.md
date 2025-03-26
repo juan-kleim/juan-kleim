@@ -3,7 +3,7 @@
   
   <h1>Juan Pacheco Kleim</h1>
   
-  <h3>Desenvolvedor Android (tentando) | Entusiasta Web3 | </h3>
+  <h3>Desenvolvedor Android (tentando) | Entusiasta Web3 </h3>
   
   <div>
     <a href="https://www.linkedin.com/in/juan-pacheco-kleim/">
