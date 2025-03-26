@@ -29,7 +29,7 @@ Estudante de Ciência da Computação, atualmente focando no Desenvolvimento And
 <div align="center">
 
 ### **Desenvolvimento Frontend**
-![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![XML](https://img.shields.io/badge/XML-4A90E2?style=for-the-badge&logo=xml&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ### **Desenvolvimento Backend**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
