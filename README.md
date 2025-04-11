@@ -2,7 +2,7 @@
 
   <h1>Juan Pacheco Kleim</h1>
   
-  <h3>Android Developer (trying) | Web3 enthusiast </h3>
+  <h3>Android Developer </h3>
 
 ---
 
