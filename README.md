@@ -2,7 +2,7 @@
 
   <h1>Juan Pacheco Kleim</h1>
   
-  <h3>Android Developer </h3>
+  <h3>Mobile Developer - Android & iOS </h3>
 
 ---
 
