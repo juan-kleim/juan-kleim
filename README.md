@@ -3,7 +3,7 @@
   <h1>Juan Pacheco Kleim</h1>
   
   <h3>Mobile Developer - Android </h3>
-  <h3>Android Studio & Visual Studio </h3>
+  <h3>Android Studio, Visual Studio & IntelliJ </h3>
 
 ---
 
