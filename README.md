@@ -2,7 +2,7 @@
 
   <h1>Juan Pacheco Kleim</h1>
   
-  <h3>Mobile Developer - Android </h3>
+  <h3>Cross-Platform Mobile Developer </h3>
   <h3>KMP & .NET MAUI </h3>
 
 ---
