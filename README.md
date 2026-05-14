@@ -15,7 +15,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <p> Feel free to explore my repositories and tag me on any projects you find interesting! </p>
-</div>
